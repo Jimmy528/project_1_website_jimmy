@@ -1,3 +1,10 @@
+h1{
+  text-align: center;
+  color: yellow
+}
+p{
+  text-align: center;
+}
 body{
   background-image: url(http://vignette2.wikia.nocookie.net/arrow/images/3/3c/The_Flash_Season_2_poster_-_One_more_week.png/revision/latest?cb=20150929170217);
   color: orange;
