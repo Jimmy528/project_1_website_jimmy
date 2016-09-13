@@ -8,3 +8,8 @@ p{
 body{
   background-image: url(http://vignette2.wikia.nocookie.net/arrow/images/3/3c/The_Flash_Season_2_poster_-_One_more_week.png/revision/latest?cb=20150929170217);
   color: orange;
+}
+
+#second_page {
+  background-image: url(http://vignette4.wikia.nocookie.net/arrow/images/2/23/The_Flash_promo_poster_-_Discover_what_makes_a_hero.png/revision/latest?cb=20140829064646);
+}
